@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Xiaodong Wu</title>
+    <link>http://www.xiaodwu.me/publication/</link>
+    <description>Recent content in Publications on Xiaodong Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiaodong Wu</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Broadband Asymmetric Transmission of Linear Polarization in a Tri-layer Chiral Metasurface</title>
+      <link>http://www.xiaodwu.me/publication/asy_ieice/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/publication/asy_ieice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broadband Asymmetric Transmission of Linear Polarization in a Tri-layer Chiral Metasurface</title>
+      <link>http://www.xiaodwu.me/publication/asy_ieee/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/publication/asy_ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact e-shape Metasurface with Dual-band Circular Polarization Conversion</title>
+      <link>http://www.xiaodwu.me/publication/e_shape_oc/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/publication/e_shape_oc/</guid>
+      <description>&lt;p&gt;Double-band circular polarization conversion based on novel e-shape resonators is proposed and studied both numerically and experimentally. Both the simulated results and experimental results are in good agreement.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At two resonant frequencies, i.e., 11.65 GHz and 13.02 GHz, the incident y-direction linearly polarized wave can be transformed into right- and left-handed circularly polarized waves, respectively.&lt;/li&gt;
+&lt;li&gt;The proposed structure can transmit a nearly pure circularly polarized wave, with a polarization extinction ratio of greater than 30 dB.&lt;/li&gt;
+&lt;li&gt;Moreover, the metasurface is compact with simple geometry, which is not only extremely thin in the propagating direction but also very small in the transverse direction.&lt;/li&gt;
+&lt;li&gt;The retrieval results reveal that the effective refractive index of the e-shape structure is nearly negative in the vicinity of resonant frequencies. - The surface current distributions are investigated to illustrate the polarization transformation mechanism. We also analyze the influence of several main geometric parameters for regulating the polarization properties.&lt;/li&gt;
+&lt;li&gt;The proposed e-shape structure is promising for use in the design of polarization control devices.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A novel chiral metamaterial circular polarizer based on e-shape structure</title>
+      <link>http://www.xiaodwu.me/publication/e_shape_ieee/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/publication/e_shape_ieee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

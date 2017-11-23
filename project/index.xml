@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Xiaodong Wu</title>
+    <link>http://www.xiaodwu.me/project/</link>
+    <description>Recent content in Projects on Xiaodong Wu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Xiaodong Wu</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Discontinuties in electromagnetic fields</title>
+      <link>http://www.xiaodwu.me/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/project/deep-learning/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;Inspired by the theoretical deduction of the &lt;code&gt;E. F. Kuester&lt;/code&gt;, &lt;code&gt;C. L. Holloway&lt;/code&gt; and &lt;code&gt;S. A. Tretyakov&lt;/code&gt;, and so many different excellent works like the &lt;code&gt;C. Pfeiffer&lt;/code&gt; ( loaded loops and wires forming the huygens metasurface ) , &lt;code&gt;A. Epstein&lt;/code&gt; (synthesis of passive lossless metasurface) and its analytical methodology of HMSs via the equivalence principle, etc, we find the key is how to design a practical engineering equivalent magnetic impedance surface  together with the electric surface finally constituting the Huygens metamaterials.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There are several loaded loop aspects like by vias, by stacking multiple PCBs, by capacitive coupling, etc. But for now, no one is without drawbacks. So on the one hand I attempt to review the current trends in HMS fields, on the other hand I also have been doing the some works designing the novel huygens sources and developing the alternative methodology.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am currently working on the regulation of electromagnetic waves using boundary conditions of surface discontinuities and analytical generalized sheet transition conditions (GSTCs) for the discontinuties in electromagnetic fields.&lt;/p&gt;
+
+&lt;p&gt;$$ E_{t+}-E_{t-}=\left(j\omega\mu d \overline{I}_{t}-\dfrac {d}{j\omega \varepsilon} \nabla_{t} \nabla_{t} \right) \cdot n \times H_{t-}$$&lt;/p&gt;
+
+&lt;p&gt;$$n \times H_{t+}-n \times H_{t-}=j\omega \mu d E_{t-}+\dfrac {d}{j\omega\mu}\nabla_{t} \times \left(\nabla_{t} \times E_{t+}\right)$$&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Some news are coming...&lt;/code&gt;
+ &lt;code&gt;last edited 11/15/2017&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manipulation the EM waves </title>
+      <link>http://www.xiaodwu.me/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.xiaodwu.me/project/example-external-project/</guid>
+      <description>
+
+&lt;p&gt;Using the Metamaterial or metasurface can manipulation electromagnetic properties such as polarization, phase, amplitude and orbital angular momentum and so on. In this field I have proposed and investigated a novel chiral circular polarizer based on &lt;code&gt;e-shape structure&lt;/code&gt; and &lt;code&gt;F-P cavity asymmetric transmission structure&lt;/code&gt;. These structures can be used to manipulate the polarization of he EM waves.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;e-shape structure&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;F-P cavity structure&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.xiaodwu.me/images/bubbles.jpg&#34; width=50% height=50% align=center/&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;e-shape-structure&#34;&gt;e-shape structure&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;h6 id=&#34;at-two-resonant-frequencies-i-e-11-65-ghz-and-13-02-ghz-the-incident-y-direction-linearly-polarized-wave-can-be-transformed-into-right-and-left-handed-circularly-polarized-waves-respectively&#34;&gt;At two resonant frequencies, i.e., 11.65 GHz and 13.02 GHz, the incident y-direction linearly polarized wave can be transformed into right- and left-handed circularly polarized waves, respectively.&lt;/h6&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.xiaodwu.me/img/project/table1.png&#34; alt=&#34;das&#34; /&gt;
+&lt;img src=&#34;http://www.xiaodwu.me/img/project/transmission_spectra.jpg&#34; alt=&#34;das&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;f-p-cavity-structure&#34;&gt;F-P cavity structure&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;h6 id=&#34;this-structure-can-exhibit-the-broadband-asymmetric-transmission-phenomenon-from-10-ghz-to-30-ghz-due-to-the-fabry-pérot-like-effect-the-cross-polarization-conversion-can-reach-a-maximum-of-0-94-and-exceed-0-7-from-10-ghz-to-30-ghz&#34;&gt;This structure can exhibit the broadband asymmetric transmission phenomenon from 10 GHz to 30 GHz. Due to the Fabry-Pérot-like effect, the cross-polarization conversion can reach a maximum of 0.94 and exceed 0.7 from 10 GHz to 30 GHz.&lt;/h6&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.xiaodwu.me/img/project/Figure.4.png&#34; alt=&#34;das&#34; /&gt;
+&lt;img src=&#34;http://www.xiaodwu.me/img/project/Figure.2.png&#34; alt=&#34;das&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code&gt;Further studies are coming now...&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
